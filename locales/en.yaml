@@ -1,5 +1,6 @@
 name: English
 help: |
   <b>Bot</b> helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+  Just send/forward any message to it
 language: Please, select the language.
 language_selected: <b>Bot</b> now speaks English.
